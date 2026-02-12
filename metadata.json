@@ -1,0 +1,7 @@
+{
+  "name": "WestSoldas - Gestão de Oficina de Solda",
+  "description": "Sistema completo para gestão de oficinas de manutenção de máquinas de solda, com controle de clientes, orçamentos, ordens de serviço e financeiro.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
